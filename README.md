@@ -27,3 +27,39 @@ This project focuses on analyzing and modeling sales data from a retail supersto
 
 * Linear regression model achieved a moderate R² score, indicating a basic predictive capability.
 * Visualizations like heatmaps, bar plots, and distribution plots helped identify profitable regions and segments.
+  ## 🤝 Conclusion
+
+This project demonstrates how linear regression can be used to forecast profits using sales data. Future improvements could include:
+
+* Trying different models like Random Forest or XGBoost
+* Feature engineering to enhance model performance
+* Incorporating time series models for monthly sales prediction
+
+## ⚙️ Tech Stack / Tools Used
+
+* Python (Jupyter Notebook)
+* pandas, numpy, matplotlib, seaborn, scikit-learn
+
+## ▶️ How to Run the Project
+
+1. Clone the repo
+
+git clone https://github.com/diyanafren/superstore-sales-analysis.git
+cd superstore-sales-analysis
+
+2. Install the dependencies
+
+
+pip install -r requirements.txt
+
+
+3. Open the notebook
+
+
+jupyter notebook notebooks/exploration and graphs.ipynb
+
+
+## 👨‍💼 Author
+
+[Diya Nafren C](https://github.com/diyanafren)
+
